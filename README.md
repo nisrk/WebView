@@ -1,2 +1,2 @@
 # WebView
-WebView that containsa search bar, a home page, buttons for zooming in, zooming out, and refreshing the page...  using  JAVA, JavaFX.
+ search bar, home page, buttons for zooming in, zooming out, and refreshing the page...  using  JAVA, JavaFX.
